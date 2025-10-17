@@ -36,7 +36,38 @@ export const myProjects = [
       },
     ],
   },
-  
+  {
+    id: 2,
+    title: "Discover Algeria",
+    description:
+      "A travel website designed to showcase Algeria’s natural beauty, historical landmarks, and cultural diversity, inviting users to explore destinations and plan their trips.",
+    subDescription: [
+      "Developed using pure HTML, CSS, and JavaScript to ensure fast loading and smooth animations.",
+      "Designed a responsive layout for an optimized experience across desktop and mobile devices.",
+      "Implemented interactive navigation, language selection, and dynamic image galleries.",
+      "Enhanced user engagement through visually appealing hero sections and easy navigation.",
+    ],
+    href: "https://github.com/LinaYasBen/Discover-Algeria",
+    logo: "",
+    image: "/assets/projects/algeria.png",
+    tags: [
+      {
+        id: 1,
+        name: "HTML",
+        path: "/assets/logos/html5.svg",
+      },
+      {
+        id: 2,
+        name: "CSS",
+        path: "/assets/logos/css3.svg",
+      },
+      {
+        id: 3,
+        name: "JavaScript",
+        path: "/assets/logos/javascript.svg",
+      },
+    ],
+  },
 ];
 
 export const mySocials = [
@@ -82,7 +113,6 @@ export const experiences = [
       "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
     ],
   },
-
 ];
 export const reviews = [
   {
