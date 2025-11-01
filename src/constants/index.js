@@ -79,9 +79,9 @@ export const myProjects = [
       "Configured realistic lighting and shadows through HDRi and area lights for accurate reflections and soft ambient effects.",
       "Rendered the final scene with optimized sampling and denoising for a clean, photorealistic result.",
     ],
-    href: "",
+    href: "https://github.com/LinaYasBen/W3D-Tp1-Table-In-Blender",
     logo: "",
-    image: "/assets/projects/W3D-Tp1-Table-In-Blender-imageRender.png",
+    image: "/assets/projects/tp1w3d.png",
     tags: [
       {
         id: 1,
