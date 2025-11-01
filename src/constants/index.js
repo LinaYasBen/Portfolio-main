@@ -68,6 +68,43 @@ export const myProjects = [
       },
     ],
   },
+  {
+    id: 2,
+    title: "3D Dining Table Render",
+    description:
+      "A realistic 3D render of a wooden dining table with detailed textures, lighting, and shadows created in Blender.",
+    subDescription: [
+      "Modeled a complete dining set including table and chairs with intricate design patterns on the backrests.",
+      "Applied high-resolution wood and fabric materials using Blender’s procedural and image-based texturing.",
+      "Configured realistic lighting and shadows through HDRi and area lights for accurate reflections and soft ambient effects.",
+      "Rendered the final scene with optimized sampling and denoising for a clean, photorealistic result.",
+    ],
+    href: "",
+    logo: "",
+    image: "/assets/projects/W3D-Tp1-Table-In-Blender-imageRender.png",
+    tags: [
+      {
+        id: 1,
+        name: "Blender",
+        path: "/assets/logos/blender.svg",
+      },
+      {
+        id: 2,
+        name: "3D Modeling",
+        path: "/assets/logos/3dmodel.svg",
+      },
+      {
+        id: 3,
+        name: "Rendering",
+        path: "/assets/logos/render.svg",
+      },
+      {
+        id: 4,
+        name: "Texturing",
+        path: "/assets/logos/texture.svg",
+      },
+    ],
+  },
 ];
 
 export const mySocials = [
