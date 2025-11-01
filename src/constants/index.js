@@ -86,23 +86,9 @@ export const myProjects = [
       {
         id: 1,
         name: "Blender",
-        path: "/assets/logos/blender.svg",
+        path: "/assets/logos/Blender.svg",
       },
-      {
-        id: 2,
-        name: "3D Modeling",
-        path: "/assets/logos/3dmodel.svg",
-      },
-      {
-        id: 3,
-        name: "Rendering",
-        path: "/assets/logos/render.svg",
-      },
-      {
-        id: 4,
-        name: "Texturing",
-        path: "/assets/logos/texture.svg",
-      },
+
     ],
   },
 ];
