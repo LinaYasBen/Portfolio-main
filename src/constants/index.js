@@ -69,7 +69,7 @@ export const myProjects = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     title: "3D Dining Table Render Tp1 W3D",
     description:
       "A realistic 3D render of a wooden dining table with detailed textures, lighting, and shadows created in Blender.",
