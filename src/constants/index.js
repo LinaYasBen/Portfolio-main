@@ -88,7 +88,30 @@ export const myProjects = [
         name: "Blender",
         path: "/assets/logos/Blender.svg",
       },
-
+    ],
+  },
+  {
+    id: 4,
+    title: "3D Juice Can Advertisement Render TP Blender",
+    description:
+      "A realistic 3D advertisement render of a juice can created in Blender, featuring detailed modeling, materials, and lighting setup.",
+    subDescription: [
+      "Modeled a complete juice can using Blender’s mesh tools with precise shape adjustments for realism.",
+      "Created the can opening (pull tab) separately to refine its metallic curves and realistic proportions.",
+      "Applied reflective metal and liquid materials, and designed a colorful label to enhance visual appeal.",
+      "Configured studio-style lighting with a blue background to highlight the freshness of the product.",
+      "Added small water droplets and adjusted reflections to simulate a cold, refreshing beverage look.",
+      "Rendered the final scene with Cycles engine for high-quality photorealistic output.",
+    ],
+    href: "https://github.com/LinaYasBen/Blender-TP-Juice-Can",
+    logo: "",
+    image: "/assets/projects/tp2w3d.png",
+    tags: [
+      {
+        id: 1,
+        name: "Blender",
+        path: "/assets/logos/Blender.svg",
+      },
     ],
   },
 ];
