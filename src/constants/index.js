@@ -103,7 +103,7 @@ export const myProjects = [
       "Added small water droplets and adjusted reflections to simulate a cold, refreshing beverage look.",
       "Rendered the final scene with Cycles engine for high-quality photorealistic output.",
     ],
-    href: "https://github.com/LinaYasBen/Blender-TP-Juice-Can",
+    href: "https://github.com/LinaYasBen/W3D-Tp2-Can-Juice-In-Blender",
     logo: "",
     image: "/assets/projects/tp2w3d.png",
     tags: [
