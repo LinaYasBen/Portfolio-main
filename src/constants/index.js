@@ -92,7 +92,7 @@ export const myProjects = [
   },
   {
     id: 4,
-    title: "3D Juice Can Advertisement Render TP Blender",
+    title: "3D Juice Can Advertisement Render Tp2 Blender",
     description:
       "A realistic 3D advertisement render of a juice can created in Blender, featuring detailed modeling, materials, and lighting setup.",
     subDescription: [
