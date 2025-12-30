@@ -114,6 +114,69 @@ export const myProjects = [
       },
     ],
   },
+  {
+    id: 5,
+    title: "3D Model Viewer with Three.js",
+    description:
+      "A web-based 3D model viewer built using Three.js, allowing users to load and display 3D models in an interactive real-time environment.",
+    subDescription: [
+      "Implemented a Three.js scene with camera, renderer, and responsive canvas setup.",
+      "Loaded external 3D models (GLTF/GLB) using the GLTFLoader for efficient rendering.",
+      "Configured basic materials and textures to preserve the original model appearance.",
+      "Added ambient and directional lighting to enhance model visibility and depth.",
+      "Enabled camera controls (OrbitControls) to rotate, zoom, and inspect the 3D model.",
+      "Optimized rendering performance for smooth interaction within the browser.",
+    ],
+    href: "https://github.com/LinaYasBen/W3D-Tp3-Three.js",
+    logo: "",
+    image: "/assets/logos/threejs.svg",
+    tags: [
+      {
+        id: 1,
+        name: "Three.js",
+        path: "/assets/logos/threejs.svg",
+      },
+      {
+        id: 2,
+        name: "JavaScript",
+        path: "/assets/logos/javascript.svg",
+      },
+    ],
+  },
+  {
+    id: 6,
+    title: "Interactive 3D Scene with Three.js",
+    description:
+      "An interactive 3D web experience developed with Three.js, featuring real-time user interaction, animations, and dynamic scene elements.",
+    subDescription: [
+      "Designed an interactive 3D scene using Three.js with custom geometries and materials.",
+      "Implemented user interactions such as mouse hover and click events on 3D objects.",
+      "Added smooth animations using the requestAnimationFrame loop for real-time rendering.",
+      "Integrated dynamic lighting changes to react to user interaction.",
+      "Applied shadows and depth effects to improve scene realism.",
+      "Ensured responsive behavior across different screen sizes and devices.",
+    ],
+    href: "https://github.com/LinaYasBen/W3D-Tp4-Interactive-Three.js",
+    logo: "",
+    image: "/assets/logos/threejs.svg",
+    tags: [
+      {
+        id: 1,
+        name: "Three.js",
+        path: "/assets/logos/threejs.svg",
+      },
+      {
+        id: 2,
+        name: "WebGL",
+        path: "/assets/logos/webgl.svg",
+      },
+      {
+        id: 3,
+        name: "JavaScript",
+        path: "/assets/logos/javascript.svg",
+      },
+    ],
+  },
 ];
 
 export const mySocials = [
