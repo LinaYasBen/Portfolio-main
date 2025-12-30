@@ -129,7 +129,7 @@ export const myProjects = [
     ],
     href: "https://github.com/LinaYasBen/W3D-Tp3-Three.js",
     logo: "",
-    image: "/assets/logos/threejs.svg",
+    image: "/assets/projects/tp2w3d.png",
     tags: [
       {
         id: 1,
@@ -158,7 +158,7 @@ export const myProjects = [
     ],
     href: "https://github.com/LinaYasBen/W3D-Tp4-Interactive-Three.js",
     logo: "",
-    image: "/assets/logos/threejs.svg",
+    image: "/assets/projects/tp2w3d.png",
     tags: [
       {
         id: 1,
